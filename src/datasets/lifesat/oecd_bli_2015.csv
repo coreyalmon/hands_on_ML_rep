@@ -42,7 +42,7 @@
   
   
 
-    <meta name="request-id" content="454C:72FE:563F4:AB1CC:5E213124" data-pjax-transient>
+    <meta name="request-id" content="996C:625C:278653:552997:5E213316" data-pjax-transient>
 
 
 
@@ -54,7 +54,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="454C:72FE:563F4:AB1CC:5E213124" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="4658847513990738212" />
+    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="996C:625C:278653:552997:5E213316" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="282714424247137047" />
 
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -74,11 +74,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="OTIxMmE2NjdkNDM0YWViYmIyNDNlOGU4N2Y4NmI1ZjhmY2QxYTM3MWRlZTUyNzExNDg1YjEzYTFhM2M5MTZiMnx7InJlbW90ZV9hZGRyZXNzIjoiMTg1LjI0NC4yMTUuMTEiLCJyZXF1ZXN0X2lkIjoiNDU0Qzo3MkZFOjU2M0Y0OkFCMUNDOjVFMjEzMTI0IiwidGltZXN0YW1wIjoxNTc5MjMzNTczLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="ZjI4ODFhN2M3YmIwMmVmZTBkNTk3Y2UwNDc2OTAyY2U0NGE2ZDBhZmY0MThjZjg1OTQ0ZGI5OTU2ODVkODc4Znx7InJlbW90ZV9hZGRyZXNzIjoiMTg1LjI0NC4yMTUuMTEiLCJyZXF1ZXN0X2lkIjoiOTk2Qzo2MjVDOjI3ODY1Mzo1NTI5OTc6NUUyMTMzMTYiLCJ0aW1lc3RhbXAiOjE1NzkyMzQwNzEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS">
 
-    <meta name="html-safe-nonce" content="03f2e1ea9517fddc5f40f195ec8ccd8263ff5fea">
+    <meta name="html-safe-nonce" content="de7ea581ed8206ca5d603c6992ad796dcacb7c41">
 
   <meta http-equiv="x-pjax-version" content="af9513e3a7c5e4a85639b72b147e9b9b">
   
@@ -141,7 +141,7 @@
         <div class="d-flex flex-items-center">
             <a href="/join?source=header-repo"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;454C:72FE:563F4:AB1CC:5E213124&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="52b13f2285c29f75c9aec01efad520f75b7c9fe6b508557018751c35f463363b"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;996C:625C:278653:552997:5E213316&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="871646ee248ba52bc523d278b9aefb2d881cd286ad2e988024a54ab70a442d85"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -281,7 +281,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=t+W+qSdiLKEyY+eAwaDbRoGVwSiL9pL97wr4BEdu1rq2ZAfPyT7wVmerYusjiqskPh++quj+7UZkmfceYDYang=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=Q7FzRqeGrLigXbGE9x519qLtnwqaFe85v3iEVgvMARyyxbFYUv7z/I4Q2Y6Kdn30UHWqdrrswug7dvy6oPmCmg=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -408,13 +408,13 @@
 
         <a href="/login?return_to=%2Fcoreyalmon%2Fhands_on_ML_rep%2Fblob%2Fmaster%2Fsrc%2Fdatasets%2Flifesat%2Foecd_bli_2015.csv"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;454C:72FE:563F4:AB1CC:5E213124&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="156051cdabd2e8480d9fcea53bc434c7d860a5891cc2fe0e7a3fabc7038b4915"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;996C:625C:278653:552997:5E213316&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cf80c6015a752bd20d13771a4b661378bbd796f63a6342ab9a5176e0d401f5d2"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header-repo&amp;source_repo=coreyalmon%2Fhands_on_ML_rep"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;454C:72FE:563F4:AB1CC:5E213124&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="156051cdabd2e8480d9fcea53bc434c7d860a5891cc2fe0e7a3fabc7038b4915"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;996C:625C:278653:552997:5E213316&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cf80c6015a752bd20d13771a4b661378bbd796f63a6342ab9a5176e0d401f5d2"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
@@ -478,7 +478,7 @@
 
   <li>
     
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;454C:72FE:563F4:AB1CC:5E213124&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2ffe9de0fdb111f62e73f0e281d82ea0ae1d54dde5f72aaf155c5ddb9e5494c5" href="/login?return_to=%2Fcoreyalmon%2Fhands_on_ML_rep">
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;996C:625C:278653:552997:5E213316&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ecbbcb970b587c5e0f99eb37bf662842b024622480ad1259731a8fc4959fc0d3" href="/login?return_to=%2Fcoreyalmon%2Fhands_on_ML_rep">
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
     Watch
 </a>    <a class="social-count" href="/coreyalmon/hands_on_ML_rep/watchers"
@@ -489,7 +489,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:234455385,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;454C:72FE:563F4:AB1CC:5E213124&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1db6cdd0ff2169ed08a26853ddff6a7653d8e66743308d127cfb294b8805219c" href="/login?return_to=%2Fcoreyalmon%2Fhands_on_ML_rep">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:234455385,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;996C:625C:278653:552997:5E213316&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e70962f7cfe7e696ceaab1b5127dddff5ee819d8c0ea8e87b443600aa3d78aa2" href="/login?return_to=%2Fcoreyalmon%2Fhands_on_ML_rep">
       <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
       Star
@@ -502,7 +502,7 @@
   </li>
 
   <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:234455385,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;454C:72FE:563F4:AB1CC:5E213124&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ada922c391e05238c682041489cb7d386242ec82b9ff4881a84feab2ade7a388" href="/login?return_to=%2Fcoreyalmon%2Fhands_on_ML_rep">
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:234455385,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;996C:625C:278653:552997:5E213316&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="54752f32b7b67f224e0d23fcd6b8a6b72bfa2b0ec957be5908e6cd8263d30125" href="/login?return_to=%2Fcoreyalmon%2Fhands_on_ML_rep">
         <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
         Fork
 </a>
@@ -621,19 +621,19 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/coreyalmon/hands_on_ML_rep/blob/b81bbcd53c484de663e70c183b3af8e6827e0177/src/datasets/lifesat/oecd_bli_2015.csv">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/coreyalmon/hands_on_ML_rep/blob/94c71de04268367eca3c0988f201be174e9c78bb/src/datasets/lifesat/oecd_bli_2015.csv">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:4976643f786c2fbacd042e2af303e4b4 -->
           <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="E1UFYxScFipr+pUOeBxftIFANkmd4E5UUNa78r9RJo75uMq63cpuhleW7TdV8QUk0KsomwOjHoQd286+ZWfi4w==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="v9KYQic3V3nq0JtnMEQSm67SyKaRNQE2yDFl0bOfOkvrwKtS2BhL0V1858/1WPFbafNVq4wpzePeuv3MAEL1GQ==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
 </form>          <h3 class="pt-2">Join GitHub today</h3>
           <p class="col-6 mx-auto">GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.</p>
-          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;454C:72FE:563F4:AB1CC:5E213124&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7bf3f55d46403805c00f726dfda423326c909a712a5b738b07a7c4a6440d128d" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=coreyalmon%2Fhands_on_ML_rep">Sign up</a>
+          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;996C:625C:278653:552997:5E213316&quot;,&quot;originating_url&quot;:&quot;https://github.com/coreyalmon/hands_on_ML_rep/blob/master/src/datasets/lifesat/oecd_bli_2015.csv&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9a08d987a2d690b5680531eba6809bf2facd3fba4ee54eb7affc3e0ae84d44a3" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=coreyalmon%2Fhands_on_ML_rep">Sign up</a>
         </div>
       </div>
     </div>
